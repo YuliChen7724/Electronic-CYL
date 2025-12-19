@@ -1,4 +1,5 @@
 Entry001
+
 [Emotion Module]
 
 我对没有回应的情感投入感到疲惫和疼痛。
